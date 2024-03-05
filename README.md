@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tmonitor745
-- 👀 I’m interested in ... python discord bots
-- 🌱 I’m currently learning ... how to code lol
-- 💞️ I’m looking to collaborate on ... a python discord bot if anyone is interested
-- 📫 How to reach me ... My discord is Tmonitor745🖥#9434 and id is 790701512975712327
+- 👀 I’m interested in ... python
+- 🌱 I’m currently learning ... Pythin Standard module 3
+- 💞️ I’m looking to collaborate on ... text based adventure python game
+- 📫 How to reach me ... You cant
 
 <!---
 Tmonitor745/Tmonitor745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
