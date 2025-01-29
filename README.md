@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tmonitor</h1>
 <h3 align="center">A very bad student Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmonitor745" alt="tmonitor745" /></a> </p>
+**<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmonitor745" alt="tmonitor745" /></a> </p>
 
 - 🔭 I’m currently working on **Scratch mobile app**
 
